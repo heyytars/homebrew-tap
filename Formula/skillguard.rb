@@ -1,8 +1,8 @@
 class Skillguard < Formula
   desc "Security scanner for AI agent skills"
   homepage "https://github.com/heyytars/skillguard"
-  url "https://github.com/heyytars/skillguard/releases/download/v2.1.0/skillguard-2.1.0.tgz"
-  sha256 "1522159b5ea9cc176f37606bbe61a166a9db4097d184fa0e603d7292d8927a82"
+  url "https://github.com/heyytars/skillguard/releases/download/v2.2.0/skillguard-2.2.0.tgz"
+  sha256 "e43f73d444a10d49a989cd2b49eaa722b877f1df3a615cf2c6affbbdec43c6d9"
   license "MIT"
 
   depends_on "node"
